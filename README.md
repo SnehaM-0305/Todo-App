@@ -1,10 +1,10 @@
 
 
 
-Installation
-Clone the repository:
+Installation \n
+Clone the repository:\n
 
-git clone https://github.com/SnehaM-0305/Todo-App.git
+git clone https://github.com/SnehaM-0305/Todo-App.git\n
 
 Navigate to the project directory:
 cd TODO
